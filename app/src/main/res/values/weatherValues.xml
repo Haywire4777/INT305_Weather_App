@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="day_1">Monday</string>
+    <string name="forecast_1">Partly Cloudy</string>
+    <string name="high_1">High: 37°F</string>
+    <string name="low_1">Low: 29°F</string>
+    <string name="humidity_1">Humidity: 50%</string>
+    <string name="wind_1">Wind: 1.1 mph</string>
+    <string name="pressure_1">Pressure: 1025 hPa</string>
+    <string name="current_Temp">33°F</string>
+
+    <string name="day_2">Tuesday</string>
+    <string name="forecast_2">Cloudy</string>
+    <string name="high_2">High: 35°F</string>
+    <string name="low_2">Low: 23°F</string>
+    <string name="humidity_2">Humidity: 60%</string>
+    <string name="wind_2">Wind: 1.0 mph</string>
+    <string name="pressure_2">Pressure: 1025 hPa</string>
+    <string name="avg_temp_2">30°F</string>
+
+    <string name="day_3">Wednesday</string>
+    <string name="forecast_3">Snow</string>
+    <string name="high_3">High: 32°F</string>
+    <string name="low_3">Low: 19°F</string>
+    <string name="humidity_3">Humidity: 80%</string>
+    <string name="wind_3">Wind: 0.75 mph</string>
+    <string name="pressure_3">Pressure: 1019 hPa</string>
+    <string name="avg_temp_3">28°F</string>
+
+    <string name="day_4">Thursday</string>
+    <string name="forecast_4">Snow</string>
+    <string name="high_4">High: 30°F</string>
+    <string name="low_4">Low: 19°F</string>
+    <string name="humidity_4">Humidity: 75%</string>
+    <string name="wind_4">Wind: 1.5 mph</string>
+    <string name="pressure_4">Pressure: 1017 hPa</string>
+    <string name="avg_temp_4">25°F</string>
+
+    <string name="day_5">Friday</string>
+    <string name="forecast_5">Partly Cloudy</string>
+    <string name="high_5">High: 29°F</string>
+    <string name="low_5">Low: 18°F</string>
+    <string name="humidity_5">Humidity: 40%</string>
+    <string name="wind_5">Wind: 1.5 mph</string>
+    <string name="pressure_5">Pressure: 1023 hPa</string>
+    <string name="avg_temp_5">24°F</string>
+
+    <string name="day_6">Saturday</string>
+    <string name="forecast_6">Sunny</string>
+    <string name="high_6">High: 35°F</string>
+    <string name="low_6">Low: 27°F</string>
+    <string name="humidity_6">Humidity: 30%</string>
+    <string name="wind_6">Wind: 1.0 mph</string>
+    <string name="pressure_6">Pressure: 1031 hPa</string>
+    <string name="avg_temp_6">31°F</string>
+
+    <string name="day_7">Sunday</string>
+    <string name="forecast_7">Partly Cloudy</string>
+    <string name="high_7">High: 35°F</string>
+    <string name="low_7">Low: 25°F</string>
+    <string name="humidity_7">Humidity: 35%</string>
+    <string name="wind_7">Wind: 0.5 mph</string>
+    <string name="pressure_7">Pressure: 1027 hPa</string>
+    <string name="avg_temp_7">30°F</string>
+</resources>
